@@ -1,5 +1,7 @@
 # NCE Flow
 
+**Fork from https://github.com/luzhenhua/NCE-Flow**
+
 **新概念英语在线点读，点句即读、连续播放**
 
 [![GitHub stars](https://img.shields.io/github/stars/luzhenhua/NCE-Flow?style=social)](https://github.com/luzhenhua/NCE-Flow)
