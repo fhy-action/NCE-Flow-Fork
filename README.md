@@ -1,13 +1,13 @@
-# NCE Flow
+# NCE Flow Fork
 
 **Fork from https://github.com/luzhenhua/NCE-Flow**
 
 **新概念英语在线点读，点句即读、连续播放**
 
-[![GitHub stars](https://img.shields.io/github/stars/luzhenhua/NCE-Flow?style=social)](https://github.com/luzhenhua/NCE-Flow)
-[![GitHub forks](https://img.shields.io/github/forks/luzhenhua/NCE-Flow?style=social)](https://github.com/luzhenhua/NCE-Flow)
-[![GitHub release](https://img.shields.io/github/release/luzhenhua/NCE-Flow)](https://github.com/luzhenhua/NCE-Flow/releases)
-[![License](https://img.shields.io/github/license/luzhenhua/NCE-Flow)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/fhy-action/NCE-Flow-Fork?style=social)](https://github.com/fhy-action/NCE-Flow-Fork)
+[![GitHub forks](https://img.shields.io/github/forks/fhy-action/NCE-Flow-Fork?style=social)](https://github.com/fhy-action/NCE-Flow-Fork)
+[![GitHub release](https://img.shields.io/github/release/fhy-action/NCE-Flow-Fork)](https://github.com/fhy-action/NCE-Flow-Fork)
+[![License](https://img.shields.io/github/license/fhy-action/NCE-Flow-Fork)](LICENSE)
 
 **在线体验**: https://nce.luzhenhua.cn | **下载完整版**: [Releases](https://github.com/luzhenhua/NCE-Flow/releases)
 
@@ -57,7 +57,7 @@ docker-compose up -d
 
 ### 方式三：本地开发服务器
 
-1. **下载完整版**：[访问 Releases 页面](https://github.com/luzhenhua/NCE-Flow/releases)
+1. **下载完整版**：[访问 Releases 页面](https://github.com/fhy-action/NCE-Flow-Fork/releases)
 2. 解压后启动本地服务器：
 
    **方法一：使用Python**
@@ -97,7 +97,7 @@ NCE-Flow/
 
 ## 版本历史
 
-查看完整更新日志：[Releases](https://github.com/luzhenhua/NCE-Flow/releases)
+查看完整更新日志：[Releases](https://github.com/fhy-action/NCE-Flow-Fork/releases)
 
 ### 最新版本
 
@@ -166,6 +166,6 @@ NCE-Flow/
 
 如果这个项目对你有帮助，请给个 Star ⭐ 支持一下！
 
-你也可以通过 [爱发电](https://afdian.com/a/luzhenhua) ☕ 请我喝杯咖啡
+你也可以通过 [爱发电](https://afdian.com/a/luzhenhua) ☕ 请原作者喝杯咖啡
 
 Made with ❤️ by [Luzhenhua](https://luzhenhua.cn)
